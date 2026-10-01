@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Nghỉ phép CBCS - Công an xã Bát Tràng",
+  "description": "Phần mềm quản lý, theo dõi, tính toán thâm niên và ngày nghỉ phép năm của cán bộ, chiến sĩ Công an xã Bát Tràng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
